@@ -1,0 +1,15 @@
+{
+  "source_revision": "9fc1306d0b4791c3941ba74e8233de88afaf1bbf",
+  "lesson_source": "lessons/001-ga-nu/lesson.md",
+  "lesson_source_sha256": "426582ae232b690a0da953fff6095d82840c7ebb99b2f6a20a9f06d171369f0e",
+  "exported_files": {
+    "website/index.html": "c354533e87ec1ce59e3ab2984b00548310e41a87b87fac25af9b46ffed7d22b6",
+    "website/lessons/001-ga-nu/index.html": "1204e015a77a924e0c518036ecdfd298fc5dcb7f72a211682ebbee89917c9d44",
+    "website/style.css": "d1e9a214972f94eaab0115f43635c31c25f801030707bcf14124dfbd8616dbd3"
+  },
+  "scope": [
+    "目次",
+    "Lesson 001"
+  ],
+  "publication": "manual GitHub Pages workflow; export preparation does not imply deployment"
+}
