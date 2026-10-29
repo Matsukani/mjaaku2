@@ -6,4 +6,4 @@
 - Preserve Unicode, kana distinctions, spacing, examples, exercise gaps, and tables during export. Do not normalize or regenerate linguistic content as part of publication.
 - Do not copy source datasets, analyses, notes, archives, unpublished lessons, or credentials here.
 - Keep `publication.json` synchronized with each export's source revision and file checksums.
-- The workflow must upload only `website/`, and publication remains manually triggered unless the user changes that preference.
+- The workflow must upload only `website/`. As requested by the author, pushes that change `website/` now publish automatically; manual publication remains available.

@@ -1,6 +1,11 @@
 name: Publish lessons
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - 'website/**'
+      - '.github/workflows/publish-lessons.yml'
   workflow_dispatch:
 
 permissions:

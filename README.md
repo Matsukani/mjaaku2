@@ -15,12 +15,11 @@ This public repository can use GitHub Pages on GitHub Free. No upgrade is needed
 
 The authoring source remains in the private working repository. This repository is a publication destination, not a second editable master.
 
-1. Edit and commit the master lesson in the working repository.
-2. Generate the site there with `npm ci --prefix site` and `npm run build --prefix site`.
-3. Copy only the approved generated files from `_site/` into this repository's `website/`, update `publication.json`, and commit to `main`.
-4. Review the changes, then run **Publish lessons** here.
+Once the publication credential is configured in the private authoring repository, its **Update public site** workflow builds and commits the approved export here. Pushes changing `website/` automatically trigger **Publish lessons**. The manual **Run workflow** button remains available.
 
-The initial export is already committed. Future source changes are **not automatically synchronized** between repositories. Cross-repository automation can be added later with narrowly scoped credentials. No credentials for the private repository are stored here.
+Continue editing the original Markdown in the authoring repository. Do not edit generated HTML here. Only pages explicitly selected for publication are exported. The source action needs a token with Contents read/write access to this public repository only; setup instructions live in the private repository's `docs/github-pages.md`. No private-repository credential is stored here.
+
+`publication.json` records the source revision and file checksums. A build whose public output is unchanged creates no new public commit.
 
 ## Publication scope
 
