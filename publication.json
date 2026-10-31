@@ -1,15 +1,19 @@
 {
-  "source_revision": "9fc1306d0b4791c3941ba74e8233de88afaf1bbf",
-  "lesson_source": "lessons/001-ga-nu/lesson.md",
-  "lesson_source_sha256": "426582ae232b690a0da953fff6095d82840c7ebb99b2f6a20a9f06d171369f0e",
+  "source_revision": "3fbac7a210bdc4df585d0868962acef430672b3f",
+  "source_files_sha256": {
+    "site/index.md": "2e989bf662e150a2b81f9bac11647b527ad184896d53c6eda147016d69a5f721",
+    "site/introduction.md": "dfd1a5da12e2c99a83e793229090a84bee2bd1c341d860911754d6092088f354",
+    "lessons/001-ga-nu/lesson.md": "426582ae232b690a0da953fff6095d82840c7ebb99b2f6a20a9f06d171369f0e"
+  },
   "exported_files": {
-    "website/index.html": "c354533e87ec1ce59e3ab2984b00548310e41a87b87fac25af9b46ffed7d22b6",
+    "website/index.html": "8e9e3c0faa09feeb490ef8c867948e14a7e33b1e269649a05a5f3c1f62c678e8",
+    "website/introduction/index.html": "f90cdf70861d33c2bcd568527b54e7f451a54d83487fe72cde4c523fe6d82428",
     "website/lessons/001-ga-nu/index.html": "1204e015a77a924e0c518036ecdfd298fc5dcb7f72a211682ebbee89917c9d44",
     "website/style.css": "d1e9a214972f94eaab0115f43635c31c25f801030707bcf14124dfbd8616dbd3"
   },
   "scope": [
     "目次",
-    "Lesson 001"
-  ],
-  "publication": "manual GitHub Pages workflow; export preparation does not imply deployment"
+    "はじめに",
+    "第1課〈～が〉とぅ〈～ぬ〉ぬ　ぱなす"
+  ]
 }
