@@ -1,13 +1,13 @@
 {
-  "source_revision": "3fbac7a210bdc4df585d0868962acef430672b3f",
+  "source_revision": "6c49a490bdf6c3ac6098df85739f0294d109d257",
   "source_files_sha256": {
-    "site/index.md": "2e989bf662e150a2b81f9bac11647b527ad184896d53c6eda147016d69a5f721",
-    "site/introduction.md": "dfd1a5da12e2c99a83e793229090a84bee2bd1c341d860911754d6092088f354",
+    "site/index.md": "1d06a9287ef6d6d9a12709a43610d2809845acf76463b5c363e649daab63c031",
+    "site/introduction.md": "5b72deaa66627db48e648049a3ff96ae531450035272971ecd6cbdb39309751f",
     "lessons/001-ga-nu/lesson.md": "426582ae232b690a0da953fff6095d82840c7ebb99b2f6a20a9f06d171369f0e"
   },
   "exported_files": {
-    "website/index.html": "8e9e3c0faa09feeb490ef8c867948e14a7e33b1e269649a05a5f3c1f62c678e8",
-    "website/introduction/index.html": "f90cdf70861d33c2bcd568527b54e7f451a54d83487fe72cde4c523fe6d82428",
+    "website/index.html": "a32115fd33e42e1cc1a22352e2f993275c076cab078ae4c5c85b89270b1242ce",
+    "website/introduction/index.html": "e70cf208e10829b5c65db2f72a4b8088b19e3795b9d4f66d6ba4a58a4e51d0df",
     "website/lessons/001-ga-nu/index.html": "1204e015a77a924e0c518036ecdfd298fc5dcb7f72a211682ebbee89917c9d44",
     "website/style.css": "d1e9a214972f94eaab0115f43635c31c25f801030707bcf14124dfbd8616dbd3"
   },
