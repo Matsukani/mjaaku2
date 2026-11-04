@@ -1,0 +1,53 @@
+{
+  "source_revision": "96320a48b7e603a4eecf4632f78134e4da89c7d2",
+  "source_files_sha256": {
+    "site/index.md": "6f86a55f73e08ce31f51bea386bc3c81338f2fae3f4b7e4f5bd3f29a24bcd165",
+    "site/introduction.md": "965bfcd3ae73fb0afc128f9299ea361f48c46a43604635580cd260d1c17ef9bc",
+    "lessons/001-ga-nu/lesson.md": "426582ae232b690a0da953fff6095d82840c7ebb99b2f6a20a9f06d171369f0e",
+    "lessons/002-ja-ju/lesson.md": "8cd3723c0f8aec370b9e1b181b264c418beb09ab6e27ec6cbf2818343e59559c",
+    "lessons/conversations/001-introductions/lesson.md": "c5b9182d24aa0d6ade6d1969d589acaf4d0d219f4483a5f81c49f10dfd72719a",
+    "lessons/conversations/002-things-and-places/lesson.md": "2707e9a62c4d97e143e8933b34bf8a823a64b9c16d6fc1071e19fe35beb2a7ba",
+    "lessons/conversations/003-possession/lesson.md": "db493586188cb1b44d5bdae99710a66ad430e35a96e9e505f3330455d63e0945",
+    "lessons/conversations/004-location/lesson.md": "4ec2ece4dd0df1e58c9cb83b1015314a19ec7527133e22101f15f4845d51fc36",
+    "assets/characters/miga.webp": "24028ef97c5b2d4d307f4a2721e8a780c00006df13c243f890363bbd2edead9b",
+    "assets/characters/miga-speaking.webp": "a088e4f118c99e79bf3019fa7a538ab5634ae5664aeabfe93d78b25e3558b4cc",
+    "assets/characters/takeshi.webp": "e88f322fd60607abab8609eab3cacdb0d2d361af9e17faeef732cd274e481191",
+    "assets/characters/miga-smiling.webp": "a255748bba1e9194785de99f84299352c9401ad558524c8d76ccfd87b0517b2f",
+    "assets/characters/keiko-smiling.webp": "9d00f88106bc4fe4222f5fd4cb077ee1273c060f89ba069b1cfcdc99765fdd58",
+    "assets/conversations/002-things-and-places.webp": "25b9b564071e3a04bbcd502fdcfbc00162f29b1af8457b4d977898c771e65af5",
+    "assets/conversations/003-possession.webp": "e4743f794a8c640975087f04bc3504da92af6191a55522639ff8e939e7242cb7",
+    "assets/conversations/004-location.webp": "e7c34d1f3cca1670d88788cc08d5bf6e34de08661854038c889d4a4f6b091abd",
+    "site/style.css": "bd2d3dc6a51397d7ad2878ecd61a25c127ffd17ddf027fec42c9417ab2bb2910",
+    "site/pages.json": "2c82a8442e1a1f88608487fdc106bb47aa0fe7a158f620460a8fbdca4c1197f3",
+    "site/assets.json": "4dfcb021e56597ead77a23fdbc8dc79b0eb7c696ed84be2b06b1502f12bcf8ef"
+  },
+  "exported_files": {
+    "website/assets/characters/keiko-smiling.webp": "9d00f88106bc4fe4222f5fd4cb077ee1273c060f89ba069b1cfcdc99765fdd58",
+    "website/assets/characters/miga-smiling.webp": "a255748bba1e9194785de99f84299352c9401ad558524c8d76ccfd87b0517b2f",
+    "website/assets/characters/miga-speaking.webp": "a088e4f118c99e79bf3019fa7a538ab5634ae5664aeabfe93d78b25e3558b4cc",
+    "website/assets/characters/miga.webp": "24028ef97c5b2d4d307f4a2721e8a780c00006df13c243f890363bbd2edead9b",
+    "website/assets/characters/takeshi.webp": "e88f322fd60607abab8609eab3cacdb0d2d361af9e17faeef732cd274e481191",
+    "website/assets/conversations/002-things-and-places.webp": "25b9b564071e3a04bbcd502fdcfbc00162f29b1af8457b4d977898c771e65af5",
+    "website/assets/conversations/003-possession.webp": "e4743f794a8c640975087f04bc3504da92af6191a55522639ff8e939e7242cb7",
+    "website/assets/conversations/004-location.webp": "e7c34d1f3cca1670d88788cc08d5bf6e34de08661854038c889d4a4f6b091abd",
+    "website/conversations/001-introductions/index.html": "afc5d019c57d2773c55f665f6f17c9500d9359b10766ac90a820942932bae37a",
+    "website/conversations/002-things-and-places/index.html": "b9d092a207c37b4cfe65e8ca06125114818a1df876598c3e0c3b042a0a10682e",
+    "website/conversations/003-possession/index.html": "e8ba1f49e46c5bbb2719adeaa6d4a6953a003f9a9c452e857a380fcc13a781c3",
+    "website/conversations/004-location/index.html": "7d3f4401bc395633e4db54741856937d61dd358e146e3f6856fc2d03ea905ef9",
+    "website/index.html": "4472eb8001efd5c227f1d901d3b82acbef0966a4f46490676783698d94b2dc88",
+    "website/introduction/index.html": "86128fb2d05dffb1e9366b129859b7cc8501b7c7ec021d121a3382246a3cdc3f",
+    "website/lessons/001-ga-nu/index.html": "05ecc86ce2e073c50e742545e1e28b8d51187dfda067a74ba2fb8b331145b7ca",
+    "website/lessons/002-ja-ju/index.html": "b056c48a368ef0a5dac226bc5784d39d0ede2600a9dd83e66ffc2a9039098d6b",
+    "website/style.css": "bd2d3dc6a51397d7ad2878ecd61a25c127ffd17ddf027fec42c9417ab2bb2910"
+  },
+  "scope": [
+    "宮古語入門",
+    "はじめに",
+    "第1課〈～が〉とぅ〈～ぬ〉ぬ　ぱなす",
+    "第2課〈～や〉とぅ〈～ゆ〉ぬ　ぱなす",
+    "会話1・名前と出身",
+    "会話2・ものや場所",
+    "会話3・所有をたずねる・伝える",
+    "会話4・ものや人の場所をたずねる"
+  ]
+}
